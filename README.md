@@ -33,4 +33,4 @@ A free, self-service tool that gives students coaching-style feedback on how the
 
 ## 💬 Let's Connect
 
-Students and fellow career educators are welcome to reach out on [LinkedIn](https://www.linkedin.com/in/nydia-araya-stivers/)).
+Students and fellow career educators are welcome to reach out on [LinkedIn](https://www.linkedin.com/in/nydia-araya-stivers/).
