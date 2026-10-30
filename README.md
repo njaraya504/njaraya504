@@ -4,7 +4,7 @@
 
 **Professional Career Coach** helping students in tech, data, and the physical sciences turn their skills into careers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/nydia-araya-stivers/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nydia-araya-stivers/)
 
 </div>
 
